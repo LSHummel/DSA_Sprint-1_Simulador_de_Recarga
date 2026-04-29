@@ -34,6 +34,10 @@ while(opcao != 6){
         scanf("%f", &total_kwh);
         printf("Porcentagem de energia do carro: \n");
         scanf("%f", &porcentagem);
+            while(porcentagem < 0 || porcentagem > 100){
+                printf("A porcentagem esta errada, digite novamente (0 ate 100): \n");
+                scanf("%f", &porcentagem);
+            }
         printf("=========================\n");
         printf("\n");
         // calculos
