@@ -5,8 +5,8 @@
 - Custo R$2,00 por kWh, Taxa de ativação R$1,80
 
 ## Sobre
-Um simulador de recarga de carros elétricos, o simulador calcula o tempo e o custo que o carro irá precisar para atingir o 100% da bateria.
-Conta com um "MENU" para colocar as informações do carro e observar as informações da recarga, podendo ser visto separadamente ou um relatório geral.
+Um simulador de recarga de carros elétricos, que calcula o tempo e o custo que o carro irá precisar para atingir o 100% da bateria.
+Conta com um "MENU" para colocar as informações da bateria do carro e para observar as informações da recarga, podendo ser vistas separadamente ou em um relatório geral.
 
 
 ## Referência
